@@ -1,6 +1,6 @@
 {
   "name": "i18next-redux-languagedetector",
-  "version": "0.0.0",
+  "version": "1.1.0",
   "description": "This ReduxDetector detect language in Redux using the plugin i18next-browser-languageDetector for i18next.",
   "keywords": [
     "i18n",
@@ -8,8 +8,8 @@
     "plugin",
     "language",
     "detection",
-    "react"
-    "react-i18next"
+    "react",
+    "react-i18next",
     "redux",
     "localization",
     "internationalization"
