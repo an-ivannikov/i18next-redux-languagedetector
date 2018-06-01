@@ -1,0 +1,7 @@
+{
+  "title": "Willkommen zum React mit react-i18next und Redux",
+  "description": {
+    "part1": "Um begonnen Zu erhalten, Bearbeiten Sie <1>src/App.js</1>, und speichern Sie neu zu laden.",
+    "part2": "Wechseln der Sprache zwischen Englisch, Deutsch und Russisch verwenden Sie die Tasten oben."
+  }
+}
